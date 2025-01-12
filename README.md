@@ -1,12 +1,4 @@
-- 👋 Hi, I’m M-Jaya-Kumar-Patra
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-M-Jaya-Kumar-Patra/M-Jaya-Kumar-Patra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Apna college
+This is my first git repository.
+<br>
+Student - Jaya 
